@@ -33,7 +33,7 @@ This repository contains the practical work completed for the Data Engineering s
 - Pandas
 - SQL
 - Apache Airflow
-- Google Colab / Jupyter Notebook
+- Google Colab 
 - CSV
 
 ## Repository Contents
