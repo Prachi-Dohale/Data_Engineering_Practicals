@@ -1,0 +1,11 @@
+order_city,order_state,order_country,total_orders,total_sales,total_profit
+New York City,Nueva York,Estados Unidos,742,436061.54,47889.76
+Santo Domingo,Santo Domingo,República Dominicana,744,432351.88,51111.67
+Los Angeles,California,Estados Unidos,628,370545.14,38014.36
+Tegucigalpa,Francisco Morazán,Honduras,578,364129.99,40973.64
+Managua,Managua,Nicaragua,556,335424.76,34319.95
+Mexico City,Distrito Federal,México,502,298471.84,33523.45
+Manila,Capital Nacional,Filipinas,617,271819.81,31194.52
+San Francisco,California,Estados Unidos,412,256245.63,23243.62
+Philadelphia,Pensilvania,Estados Unidos,439,255914.24,26661.43
+London,Inglaterra,Reino Unido,437,240922.26,32281.6

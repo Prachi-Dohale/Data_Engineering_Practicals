@@ -1,0 +1,5 @@
+shipping_mode,total_orders,average_shipping_delay,delayed_items,delay_percentage
+First Class,10079,1.0,27814,100.0
+Second Class,12778,1.99,28078,79.73
+Same Day,3571,0.48,4657,47.83
+Standard Class,39324,-0.0,42851,39.77

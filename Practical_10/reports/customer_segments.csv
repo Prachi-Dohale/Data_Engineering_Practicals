@@ -1,0 +1,4 @@
+customer_segment,total_orders,unique_customers,total_sales,total_profit
+Consumer,34119,10695,19095790.16,2073487.67
+Corporate,19856,6239,11168406.84,1202574.96
+Home Office,11777,3718,6520538.02,690840.34
