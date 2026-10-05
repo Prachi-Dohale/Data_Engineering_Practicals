@@ -25,7 +25,7 @@ This repository contains the practical work completed for the Data Engineering s
 | 07 | [Practical_07.ipynb](./Practical_07.ipynb) |
 | 08 | [Practical_08.ipynb](./Practical_08.ipynb) |
 | 09 | [Practical_09.ipynb](./Practical_09.ipynb) |
-| 10 | Coming soon |
+| 10 | [Practical_10_Mini_project] |
 
 ## Technologies Used
 
